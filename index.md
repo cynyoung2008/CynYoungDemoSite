@@ -1,5 +1,5 @@
 ---
-title: "How Zombies Inform our Understanding of Racism"
+title: "Your Search Engine is Racist"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/320px-Zombie_Walk_2016_%2829514290441%29.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/320px-Zombie_Walk_2016_%2829514290441%29.jpg"
@@ -8,17 +8,21 @@ contributors:
     image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Black_power_-_panoramio.jpg
     bio: Born in Cleveland, OH, she now lives in Central PA and wishes she lived in a bigger city with fewer zombies.
     twitter: cyoung2019
+  - name: Megan Grady
+    image:https://s3.amazonaws.com/api-profiles/mmgrady-V1EekpQFV.jpg
+    bio: Born in Indianapolis, IN, she now lives in Indianapolis and wishes she lived anywhere else.
+  - name: Angela Stangl
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/1-month-old_kitten_35.jpg/320px-1-month-old_kitten_35.jpg
+    bio: Born in Monticello, MN, she now lives in Morris, MN and wishes she lived in a city without zombies.
 ---
 
 
-<iframe src="//slides.com/megangrady/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/megangrady/deck/embed" width="800" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Introduction
 
-Since the appropriation of the Haitian *zonbi*[^1] into American popular culture, zombie narratives have reflected worries and tensions in American society. In this essay, we will use Critical Discourse Analysis[^2] to unpack the notion of American zombies. Focusing our analysis on popular zombie narratives of the mid-20th century, we find that shifts in the construction of these stories from White Zombie to The Walking Dead reflect the development and popularization of critical race theory and new ideologies concerning agency. Comparing zombie narratives from the 1930s to the 1950s to their more contemporary counterparts of the 2000s to now, we uncover evidence of how acute relationships between zombies and the masters who control them have been traded in for full-scale depictions of viral hordes and contagion. This shift from explicit and concrete control mechanisms to largely implicit and hard-to-pinpoint sources of systemic power, mirrors transformations in our public consciousness concerning racism in the U.S. over the last century. Across multiple forms of today’s media, we observe greater recognition of the interpersonal and covert manifestations of structural and institutional racism. While racism has long been understood by oppressed and marginalized peoples in the U.S. as a complex and structurally supported reinforcing element of White supremacy, we are only now, within the last few decades, enjoying more widespread public discussion acknowledging this fact in greater earnest.
+Some of us cannot find ourselves accurately represented online.  If you are a black or Asian woman, you are likely to find porn when you google yourselves.  If you are a white man, you are likely to see yourself as a "captain of industry.  Why is your search engine racist and what can you do about it?  Black woman scholars are fighting racist algorithms. 
 
-## References
 
-[^1]: Here is a footnote example.
-[^2]: Here is another footnote example.
+
