@@ -1,8 +1,8 @@
 ---
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/2560px-Zombie_Walk_2016_%2829514290441%29.jpg"
-overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/640px-Zombie_Walk_2016_%2829514290441%29.jpg"
+overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/640px-Zombie_Walk_2016_%2829514290441%29.jpg"
 contributors:
   - name: Cyn Young
     image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Black_power_-_panoramio.jpg
