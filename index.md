@@ -7,7 +7,7 @@ contributors:
   - name: Cyn Young
     image: funk-soul-vector-hand-drawn-illustration-surreal-landscape-woman-funk-soul-vector-hand-drawn-illustration-surreal-122057133
     bio: Born in Cleveland, OH, she now lives in Central PA and wishes she lived in a bigger city with fewer zombies.
-    twitter: GeorgeARomeros
+    twitter: cyoung2019
 ---
 
 
