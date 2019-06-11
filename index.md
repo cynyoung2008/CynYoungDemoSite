@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Cyn Young
-    image: funk-soul-vector-hand-drawn-illustration-surreal-landscape-woman-funk-soul-vector-hand-drawn-illustration-surreal-122057133
+    image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Black_power_-_panoramio.jpg
     bio: Born in Cleveland, OH, she now lives in Central PA and wishes she lived in a bigger city with fewer zombies.
     twitter: cyoung2019
 ---
