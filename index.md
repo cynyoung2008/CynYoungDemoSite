@@ -1,6 +1,6 @@
 ---
 title: "Your Search Engine is Racist"
-excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
+excerpt: 'How to Fight Back'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/320px-Zombie_Walk_2016_%2829514290441%29.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zombie_Walk_2016_%2829514290441%29.jpg/320px-Zombie_Walk_2016_%2829514290441%29.jpg"
 contributors:
